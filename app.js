@@ -1,5 +1,5 @@
 var time = 1000*60*10,                  //set change interval [Millisecond]
-    fixedName = '青木バズーカ';               //set your fixed name
+    fixedName = 'fooName';               //set your fixed name
 
 function changeName(){
     var fs = require('fs');
