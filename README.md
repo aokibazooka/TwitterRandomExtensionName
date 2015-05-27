@@ -1,2 +1,2 @@
-# TwitterRandomExtensionName
-This node script　join your twitter user name to random extension at fixed interval.
+You must set 3 points to start script.
+Look at 3 commentouts in script.
